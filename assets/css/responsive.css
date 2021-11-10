@@ -1,0 +1,1014 @@
+/* Large screens ----------- */
+@media only screen  and (min-width : 1920px) {
+.navbar .heder-logo::before { 
+	width: 34%; 
+}
+.fullslider .slider-text { 
+    top: 31%; 
+}
+.fullslider .slider-item-img { 
+    height: 85vh;
+}
+
+} 
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+h1 {
+	font-size: 45px; 
+	text-transform: uppercase;
+}
+h2 {
+	font-size: 40px; 
+}
+h3 {
+	font-size: 30px; 
+}
+h4 {
+	font-size: 25px; 
+}
+h5 {
+	font-size: 20px; 
+}
+h6 {
+	font-size: 18px; 
+}
+p {
+	font-size: 15px; 
+	line-height: 25px;
+}
+
+.header-content span {
+	padding-left: 15px;
+}
+.navbar .heder-logo::before { 
+	width: 27%; 
+}
+.slider-all-text h1 {
+	font-size: 90px; 
+	line-height: 100px;
+	padding-bottom: 12px; 
+}
+.mt-60 {
+	margin-top: 22px !important;
+}
+#service-area .mt-50 {
+	margin-top: 0px !important;
+}
+.features-text .expe {
+	font-size: 60px; 
+}
+.features-text h6 {
+	width: 100%;
+	overflow: hidden;
+	font-size: 15px;
+	line-height: 30px;
+}
+.features-text p {
+	padding: 13px 0;
+}
+.footer-mail-box {
+	width: 63%; 
+}
+.about-text h2 b {
+	font-weight: 700;
+	font-size: 39px;
+}
+.about-item h5 { 
+	font-size: 19px;
+}
+.about-item-bor { 
+	padding: 30px 27px;
+}
+.blog-profile-pad { 
+	padding: 20px;
+}
+.bolg-profiel-title { 
+	padding-bottom: 20px; 
+}
+.tags a { 
+	padding: 10px 13px; 
+	margin: 5px 1px;
+	font-size: 13px; 
+}
+.accordion-header h1 { 
+	font-size: 15px; 
+}
+.accordion-header {
+	padding: 69px 20px;
+	padding-top: 27px;
+}
+.accordion-header h1 {
+	font-size: 15px;
+	line-height: 23px;
+}
+.accordion-header-icon { 
+	margin-top: -30px;
+}
+.portfolio-item .gallery-hover2 { 
+	padding: 90% 0%; 
+}
+.releted a { 
+	padding: 10px 12px;
+	margin: 0 5px; 
+	font-size: 13px;
+}
+.fullslider .slider-item-img {
+    height: 80vh;
+}
+.fullslider .slider-text { 
+	top: 27%; 
+}
+.features_2-text {
+	margin-top: -14px;
+}
+.features_2-text h3 { 
+	line-height: 45px; 
+}
+.mt-60 {
+	margin-top: 3px !important;
+}
+.pb-60 {
+	padding-bottom: 70px !important;
+}
+.slider-all-text h1 { 
+	letter-spacing: 0px;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.pt-120 {
+	padding-top: 90px !important;
+}
+.pb-120 {
+	padding-bottom: 90px !important;
+}
+.pt-80 {
+	padding-top: 60px !important;
+}
+.mt-60 {
+	margin-top: 15px !important;
+}
+.pb-50 {
+	padding-bottom: 23px !important;
+}
+.navbar .heder-logo::before { 
+	top: 0;
+	width: 37%;
+	height: 70px; 
+}
+.navbar .top-logo {
+	margin-top: 0;
+}
+.navbar { 
+	z-index: 22;
+	padding: 9px 0px; 
+}
+#my-menu li a { 
+	font-size: 14px; 
+	padding: 20px 12px; 
+}
+.dropdown-outer .dropdown-menu {
+	top: 55px; 
+	width: 250px; 
+	left: 0px;
+}
+.dropdown-outer .dropdown-menu {
+	top: 55px;
+	padding: 0px;
+	width: 250px;
+	border-radius: 0px;
+	border-top: 2px solid #0d70b7;
+	left: 0px;
+}
+.dropdown-outer { 
+	margin-top: 15px;
+}
+.slider-all-text h2 {
+    font-size: 65px;
+}
+.slider-all-text h1 {
+    font-size: 108px;
+    font-weight: 600;
+    line-height: 148px;
+}
+.fullslider .slider-text {
+    top: 24%;
+}
+.header-content span {
+	padding-left: 15px;
+}
+#features-area .mt-50 {
+	margin-top: 0px !important;
+}
+#service-area .mt-50 {
+	margin-top: 0px !important;
+}
+.features-text {
+	padding-bottom: 30px;
+}
+.service-slider-text h5 {
+	font-weight: 700;
+	font-size: 21px;
+}
+.portfolio-btn button {
+	width: 36%;
+}
+.footer-mail.form-inline {
+    margin-top: 30px;
+}
+.about-text.text-right {
+	text-align: center !important;
+	padding-bottom: 30px;
+}
+.about-item-bor {
+	border: 2px solid #e5e5e5;
+	padding: 30px 23px;
+}
+.latest-item {
+	padding: 19px 0;
+}
+.contact-form-box button { 
+	width: 35%;
+}
+.mar-top {
+	margin-top: 195px;
+}
+.accordion-header h1 { 
+	font-size: 15px; 
+}
+.accordion-header {
+	padding: 68px 20px;
+	padding-top: 24px;
+}
+.accordion-header-icon { 
+	display: none;
+}
+.portfolio-item .portfolio-item-content { 
+	padding: 27% 0%; 
+}
+.portfolio-item .gallery-hover2 {
+	width: 100%;
+	height: 100%;
+	padding: 60% 0%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: 2;
+	-webkit-transition: all 0.2s ease 0.3s;
+	-o-transition: all 0.2s ease 0.3s;
+	transition: all 0.2s ease 0.3s;
+}
+ .releted a { 
+	padding: 10px 17px; 
+}
+.heder-logo {
+    margin-top: 0;
+}
+.features_2-text {
+	margin-top: -15px;
+}
+.mt-60 {
+	margin-top: 0px !important;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) { 
+ 
+h2 {
+	font-size: 40px; 
+}
+h3 {
+	font-size: 30px; 
+}
+h4 {
+	font-size: 25px; 
+}
+h5 {
+	font-size: 20px; 
+}
+h6 {
+	font-size: 18px; 
+}
+p {
+	font-size: 14px; 
+	line-height: 23px;
+}
+.pt-120 {
+	padding-top: 90px !important;
+}
+.pb-120 {
+	padding-bottom: 90px !important;
+}
+.pt-80 {
+    padding-top: 40px !important;
+}
+.pt-40 {
+    padding-top: 30px !important;
+}
+.navbar .heder-logo::before { 
+	top: 0;
+	width: 45%;
+	height: 80px; 
+}
+.navbar .top-logo {
+	margin-top: 0;
+}
+.navbar { 
+	z-index: 22;
+	padding: 9px 0px; 
+}
+#my-menu li a { 
+	font-size: 14px; 
+	padding: 20px 12px; 
+}
+.dropdown-outer .dropdown-menu {
+	top: 55px; 
+	width: 250px; 
+	left: 0px;
+}
+.dropdown-outer .dropdown-menu {
+	top: 55px;
+	padding: 0px;
+	width: 250px;
+	border-radius: 0px;
+	border-top: 2px solid #0d70b7;
+	left: 0px;
+}
+.slider-all-text h2 {
+	font-size: 40px; 
+}
+.slider-all-text h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 0px;
+    padding: 0 0 7px;
+}
+.fullslider .slider-text { 
+	top: 11%; 
+}
+.header-content span {
+	padding-left: 15px;
+}
+#features-area .mt-60 {
+    margin-top: 0px !important;
+}
+#features-area .pt-120 {
+	padding-top: 67px !important;
+}
+#service-area .mt-50 {
+	margin-top: 0px !important;
+}
+
+#service-area .pt-120 {
+	padding-top: 45px !important;
+}
+#features-area {
+    padding-top: 67px !important;
+}
+.features-text {
+	padding-bottom: 30px;
+}
+.header-content {
+	text-align: center !important;
+}
+.features_2-text h3 { 
+	line-height: 45px; 
+}
+.filter-button-group { 
+	padding: 0 34px; 
+}
+.filter-button-group button { 
+	font-size: 13px;
+	line-height: 60px; 
+	font-weight: 500;
+}
+.portfolio-btn button {
+	width: 50%;
+}
+.footer-mail.form-inline {
+	margin-top: 30px;
+}
+.section-title h3 {
+	font-size: 39px; 
+	padding: 24px 0;
+	padding-bottom: 26px;
+}
+.section-title h3 { 
+	padding-bottom: 26px;
+}
+.about-slider-title h6 {
+	font-size: 15px;
+}
+.header-socile {
+    text-align: center !important;
+    margin-bottom: 10px;
+}
+.about-text {
+	text-align: center !important;
+}
+.about-text h2 { 
+	font-size: 40px;
+}
+#about-text-area .pt-90 {
+	padding-top: 51px !important;
+}
+#about-text-area .col-lg-8.pt-30 {
+	padding-top: 0 !important;
+}
+#features-area .pt-120 {
+	padding-top: 100px !important;
+}
+.about-slider-title i { 
+	display: none;
+}
+.latest-item {
+	padding: 16px 0;
+}
+.contact-form-box button { 
+	width: 50%;
+}
+.slider-all-text h1 {
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 40px;
+	letter-spacing: 0px;
+}
+.mar-top {
+	margin-top: 148px;
+}
+.accordion-header h1 { 
+	font-size: 14px; 
+}
+.accordion-header {
+	padding: 54px 20px;
+	padding-top: 18px;
+}
+.accordion-header-icon {
+	display: none;
+}
+.comment-btn button { 
+	width: 50%;
+}
+.releted.col4.text-right {
+	text-align: left !important;
+}
+.heder-logo {
+    margin-top: 0;
+}
+.contact-item i { 
+    margin-bottom: 10px;
+}
+.fullslider .slider-item-img {
+    height: 62vh;
+}
+.navbar .heder-logo::before { 
+	height: 70px;
+}
+.dropdown-outer { 
+	margin-top: 15px;
+}
+.wow { 
+	display: unset !important;
+}
+.footer-menu {
+	margin-top: 15px;
+}
+.features_2-text {
+	margin-top: -7px;
+}
+ .mt-60 {
+	margin-top: 6px !important;
+}
+.section-title {
+	margin-top: -4px;
+}
+#features_2-area .pb-50 {
+	padding-bottom: 30px !important;
+}
+#service-area .mt-60 {
+	margin-top: 0px !important;
+}
+.section-title h3 {
+	padding-bottom: 26px;
+	margin-top: -10px;
+}
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.slider-all-text h1 {
+	font-size: 70px;
+	font-weight: 600;
+	line-height: 100px;
+	letter-spacing: 0px;
+}
+.features_2-text {
+	margin-top: -12px;
+}
+#features_2-area .pb-50 {
+	padding-bottom: 13px !important;
+}
+
+ 
+}
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 479px) { 
+p {
+	font-size: 14px; 
+	line-height: 23px;
+}
+.btn { 
+	font-size: 14px;  
+	margin: 5px 0 !important;
+} 
+.fullslider .slider-text {
+	top: 24%;
+}
+.pb-120 {
+	padding-bottom: 50px !important;
+}
+.pt-120 {
+	padding-top: 50px !important;
+}
+.pb-50 {
+	padding-bottom: 20px !important;
+}
+.pt-50 {
+	padding-top: 11px !important;
+}
+.pt-40 {
+	padding-top: 22px !important;
+}
+.pb-60 {
+	padding-bottom: 30px !important;
+}
+.filter-button-group {
+	padding: 0 3px;
+	border-radius: 0;
+}
+.footer-mail-box {
+	width: 63%;
+}
+.abou-hei { 
+	padding: 100px 0;
+	padding-bottom: 95px;
+}
+.section-title h3 {
+	font-size: 33px; 
+}
+#about-text-area.pb-120 {
+	padding-bottom: 60px !important;
+}
+.header-titles h1 { 
+	font-size: 45px;
+}
+#service-area .pt-120 {
+	padding-top: 75px !important;
+}
+div#topcontrol {
+	z-index: 99;
+	color: #3764eb;
+	right: 0px !important;
+	bottom: 0px !important;
+}
+.portfolio-item .portfolio-item-content { 
+	padding: 35% 0%; 
+}
+.portfolio-item .gallery-hover2 { 
+	padding: 94% 0% !important; 
+}
+.releted a { 
+	padding: 10px 14px; 
+	font-size: 14px;
+}
+.gallery-hover.portfolio-item-content {
+	padding: 45% 0;
+}
+.contact-item i { 
+    margin-bottom: 4px;
+}
+.footer-item button {
+    margin-top: 25px !important;
+}
+.navbar .top-logo {
+	margin-top: 0;
+	margin: 0 10px;
+}
+.mt-60 {
+	margin-top: 0px !important;
+}
+#features-area {
+	padding-top: 30px !important;
+}
+.slider-all-text h1 {
+	font-size: 50px;
+	font-weight: 600;
+	line-height: 60px;
+	letter-spacing: 0px;
+}
+.blog-text h4 { 
+	font-size: 24px;
+}
+.contact-form-box.text-center {
+	margin-bottom: 0;
+}
+.contact-form-box.text-center {
+	margin-bottom: 0;
+}
+ 
+}
+ 
+
+/* Custom, iPhone Retina */ 
+@media (min-width : 360px) and (max-width: 478px)  {
+h2 {
+	font-size: 27px;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	font-size: 19px;
+}
+.features-text .expe {
+	font-size: 60px;
+	font-weight: 300;
+}
+.navbar .heder-logo::before {
+	top: 0;
+	width: 70%;
+	height: 79px;
+}
+.header-content span {
+	padding-left: 15px;
+	width: 100%;
+	overflow: hidden;
+	display: inherit;
+	padding-top: 9px;
+}
+.slider-all-text h2 {
+	font-size: 26px;
+}
+.features_2-text h3 {
+	line-height: 34px; 
+}
+.features-text h6 {
+	width: 100%;
+	overflow: hidden;
+	font-size: 15px;
+	line-height: 32px;
+}
+.section-title h3 {
+	padding-bottom: 14px;
+}
+.section-title h3 {
+	font-size: 28px;
+}
+.pt-50 {
+	padding-top: 20px !important;
+}
+#service-area .pt-120 {
+	padding-top: 40px !important;
+}
+.portfolio-items-btn button {
+	width: 55px;
+	height: 55px;
+	border-radius: 100%;
+	font-size: 26px;
+	color: #242222;
+	padding: 0;
+	margin: 15px 0 !important;
+}
+.about-text h2 {
+	font-size: 26px;
+}
+.pt-90 {
+	padding-top: 25px !important;
+}
+.about-item-bor { 
+	padding: 25px 20px;
+}
+.header-titles h1 {
+	font-size: 38px;
+}
+.blog-det { 
+	float: left; 
+	padding: 10px 9px;
+	border-radius: 5px;
+	margin-right: 10px; 
+	margin-left: 0; 
+}
+.blog-det h6 {
+	font-size: 30px;
+}
+.blog-det span { 
+	font-size: 13px;
+}
+.blog-text span {
+	width: 100%;
+	padding-top: 8px;
+	display: inline-block;
+}
+.blog-profile-pad { 
+	padding: 14px;
+}
+.contact-form-box button {
+	width: 100%;
+}
+.pb-90 {
+	padding-bottom: 50px !important;
+}
+.accordion-header h1 {
+	font-size: 12px;
+}
+.accordion-header {
+	padding: 68px 20px;
+	padding-top: 18px;
+} 
+.blog-det {
+	float: unset;
+	padding: 10px 9px;
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-left: 0;
+	width: 100%;
+	display: unset;
+	overflow: hidden;
+	display: inherit;
+	margin-bottom: 30px;
+}
+.comments-item img {
+	display: inline-block;
+	float: left;
+	margin-right: 8px;
+	width: 61px;
+}
+.btn {
+	width: 100% !important;
+}
+.gallery-hover.portfolio-item-content {
+	padding: 68% 0;
+}
+.portfolio-item .portfolio-item-content {
+	padding: 32% 0%;
+}
+.slider-all-text h1 {
+    font-size: 53px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 0px;
+}
+.slider-all-text h2 {
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+
+}
+/* Custom, iPhone Retina */ 
+@media (min-width : 320px) and (max-width: 478px)  {
+
+h2 {
+	font-size: 27px;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	font-size: 19px;
+}
+.features-text .expe {
+	font-size: 60px;
+	font-weight: 300;
+}
+.navbar .heder-logo::before {
+	top: 0;
+	width: 70%;
+	height: 70px;
+}
+.header-content span {
+	padding-left: 15px;
+	width: 100%;
+	overflow: hidden;
+	display: inherit;
+	padding-top: 9px;
+}
+.slider-all-text h2 {
+    font-size: 24px;
+    letter-spacing: 0px;
+}
+.features_2-text h3 {
+	line-height: 34px; 
+}
+.features-text h6 {
+	width: 100%;
+	overflow: hidden;
+	font-size: 15px;
+	line-height: 24px;
+	padding: 9px 0;
+}
+.section-title h3 {
+	padding-bottom: 14px;
+}
+.section-title h3 {
+	font-size: 28px;
+}
+.pt-50 {
+	padding-top: 20px !important;
+}
+#service-area .pt-120 {
+    padding-top: 0px !important;
+}
+.portfolio-items-btn button {
+	width: 55px;
+	height: 55px;
+	border-radius: 100%;
+	font-size: 26px;
+	color: #242222;
+	padding: 0;
+	margin: 15px 0 !important;
+}
+.about-text h2 {
+	font-size: 26px;
+}
+.pt-90 {
+	padding-top: 25px !important;
+}
+.about-item-bor { 
+	padding: 25px 20px;
+}
+.header-titles h1 {
+	font-size: 38px;
+}
+.blog-det { 
+	float: left; 
+	padding: 10px 9px;
+	border-radius: 5px;
+	margin-right: 10px; 
+	margin-left: 0; 
+}
+.blog-det h6 {
+	font-size: 30px;
+}
+.blog-det span { 
+	font-size: 13px;
+}
+.blog-text span {
+	width: 100%;
+	padding-top: 8px;
+	display: inline-block;
+}
+.blog-profile-pad { 
+	padding: 14px;
+}
+.contact-form-box button {
+	width: 100%;
+}
+.pb-90 {
+	padding-bottom: 50px !important;
+}
+.accordion-header h1 {
+	font-size: 12px;
+}
+.accordion-header {
+	padding: 68px 20px;
+	padding-top: 18px;
+} 
+.blog-det {
+	float: unset;
+	padding: 10px 9px;
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-left: 0;
+	width: 100%;
+	display: unset;
+	overflow: hidden;
+	display: inherit;
+	margin-bottom: 30px;
+}
+.comments-item img {
+	display: inline-block;
+	float: left;
+	margin-right: 8px;
+	width: 61px;
+}
+.btn {
+	width: 100% !important;
+}
+.gallery-hover.portfolio-item-content {
+	padding: 68% 0;
+}
+.portfolio-item .portfolio-item-content {
+	padding: 32% 0%;
+}
+.contact-form-box button { 
+    width: 100%;
+}
+.footer-mail-btn {
+    width: 100%; 
+}
+.footer-mail-box {
+    width: 100%; 
+}
+.fullslider .slider-item-img {
+    height: 74vh;
+}
+.fullslider .slider-text {
+    top: 20%;
+}
+.slider-all-text h1 {
+    font-size: 45px;
+}
+.features_2-text h3 {
+	line-height: 34px;
+	font-size: 20px;
+}
+#features_2-area .pb-50 {
+	padding-bottom: 10px !important;
+}
+.filter-button-group button {
+	font-size: 15px;
+	line-height: 60px;
+	font-weight: 500;
+	font-family: 'Open Sans', sans-serif;
+}
+.pt-50 {
+	padding-top: 0px !important;
+}
+#service-area .mt-60 {
+	margin-top: 40px !important;
+}
+.service-slider-text { 
+	margin: 0 8px;
+	padding: 40px 10px; 
+}
+.portfolio-items-btn button {
+	height: 58px;
+	font-size: 23px;
+	width: 58px !important;
+}
+.blog-text h4 {
+	font-size: 22px;
+}
+.accordion-header h1 {
+	font-size: 15px;
+}
+.accordion-header {
+	padding: 98px 20px;
+	padding-top: 18px;
+}
+#features-area .mt-60 {
+	margin-top: 0px !important;
+}
+.portfolio-btn {
+	margin-top: 30px;
+}
+.footer-menu {
+	margin-top: 6px;
+}
+.portfolio-items-text h5 {
+	font-weight: 700;
+	text-transform: initial;
+	line-height: 29px;
+	font-size: 19px;
+}
+.portfolio-items-btn {
+	width: 19%;
+	float: left;
+	padding: 5px 0;
+	padding-bottom: 0;
+}
+.about-item p {
+	letter-spacing: .1px;
+}
+.section-title h3 {
+	font-size: 24px; 
+	font-size: 24px; 
+}
+.blog-text p {
+	letter-spacing: 0.3px;
+}
+.footer-item p { 
+	letter-spacing: .4px; 
+}
+#features-area .pt-120 {
+	padding-top: 70px !important;
+}
+
+}

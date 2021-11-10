@@ -1,0 +1,47 @@
+/* ============================================================
+
+ Theme Name: Consultancy Built For Our Globe
+ Theme URI: http://
+ Description: The Consultancy Built For Our Globe Template
+ Author: Landing Page
+ Author URI: 
+ Version: 1.0 
+
+============================================================== */
+
+/* =============================================================
+			[ All Css Plugins & Helper Classes File ]
+================================================================*/
+ 
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.css"); 
+
+/* == normalize == */
+@import url("plugins/normalize.css");
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == magnific popup == */
+@import url("plugins/magnific-popup.css");
+
+/* == swiper carousel == */
+@import url("plugins/owl.carousel.min.css"); 
+@import url("plugins/owl.theme.default.min.css"); 
+
+/* == animate Headline == */
+@import url("plugins/animate.min.css");    
+
+/* == animate Headline == */
+@import url("plugins/woco-accordion.min.css");    
+
+/* == preloader == */
+@import url("plugins/preloader.css");
+/* == accordion == */
+@import url("plugins/reset-style.css"); 
+
+/* == hover == */
+@import url("plugins/hover-min.css");  
+
+/* == helper classes == */
+@import url("plugins/helper.css");
